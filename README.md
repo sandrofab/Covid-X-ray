@@ -1,12 +1,19 @@
 # Covid-X-ray
-A project of CV Deep Learning model for Covid pneumonias Xray images classification.
+A project of a **Computer Vision Deep Learning model** for **Covid-19** and pneumonias Xray images classification.
 
-IMPORTANT! All the conclusions from this project should undergo a thorough clinical study, so it is not possible to validate any conclusion without a valid clinical test.
+#### IMPORTANT! 
+All the conclusions from this project should undergo a thorough clinical study, so it is not possible to validate any conclusion without a valid clinical test.
 
-This project intends to evaluate a deep learning model for classification of Xray images coming from various kinf of pneumonia included Covid-19
+## The Project
+This project has been developed in May 2020 and intends to evaluate a deep learning model for classification of Xray images coming from various kind of pneumonia included Covid-19.
 
 Is there a way for a deep learning computer vision model to tell the difference between various king of pneumonia by  Xray images?
 
-In the file "Covid-project-report.pdf" you will find the report and all the steps i followed to train the model and achieve some conclusions.
+### How the project is structured
+Here is a description of folders and files in this repository
+* [dataset_for_classification](https://github.com/sandrofab/Covid-X-ray/tree/master/dataset_for_classification) - here you will find x-ray images split in 4 self explaining subfolders.
+* [Scripts and Notebooks] - a folder with scripts and Colab noteboos with code udes for the pre-processing tasks and model training
+* [Plots]
 
-In the folder "dataset_for_classification" you will find all images i used to train the model split by kind of pneumonia.
+
+In the file [Covid-project-report.pdf](https://github.com/sandrofab/Covid-X-ray/edit/master/README.md) you will find the report and all the steps i followed to train the model and achieve some conclusions.

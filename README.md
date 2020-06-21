@@ -20,8 +20,8 @@ Is there a way for a deep learning computer vision model to tell the difference 
 ### How this repository is structured
 Here is a description of folders and files in this repository
 * [dataset_for_classification](https://github.com/sandrofab/Covid-X-ray/tree/master/dataset_for_classification) - here you will find x-ray images split in 4 self explaining subfolders.
-* [Scripts and Notebooks] - a folder with scripts and Colab notebooks with code used for the pre-processing tasks and model training
-* [Plots] - Plots with losses and accuracies in different scenarios
+* [Scripts and Notebooks](https://github.com/sandrofab/Covid-X-ray/tree/master/Scripts%20and%20Notebooks) - a folder with scripts and Colab notebooks with code used for the pre-processing tasks and model training
+* [Plots](https://github.com/sandrofab/Covid-X-ray/tree/master/plots) - Plots with losses and accuracies in different scenarios
 
 
 In the file [Covid-project-report.pdf](https://github.com/sandrofab/Covid-X-ray/edit/master/README.md) you will find the report and all the steps i followed to train the model and achieve some conclusions.

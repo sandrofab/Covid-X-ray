@@ -7,8 +7,8 @@ All the conclusions from this project should undergo a thorough clinical study, 
 ## The Project
 This project has been developed in May 2020 and intends to evaluate a deep learning model for classification of Xray images coming from various kind of pneumonia included Covid-19, using keras and Tensorflow
 <p align="center">
-  <img src="https://github.com/sandrofab/Covid-X-ray/blob/master/dataset_for_classification/COVID/1-s2.0-S1684118220300682-main.pdf-002-a1.png?raw=true" height="350">
-  <img src="https://github.com/sandrofab/Covid-X-ray/blob/master/dataset_for_classification/NORMAL/IM-0145-0001.jpeg?raw=true" height="350" alt="accessibility text">
+  <img src="https://github.com/sandrofab/Covid-X-ray/blob/master/dataset_for_classification/COVID/1-s2.0-S1684118220300682-main.pdf-002-a1.png?raw=true" height="300">
+  <img src="https://github.com/sandrofab/Covid-X-ray/blob/master/dataset_for_classification/NORMAL/IM-0145-0001.jpeg?raw=true" height="300" alt="accessibility text">
   <br>
     <em>Fig. 1: On the left Covid-19 XRay, on the right normal lungs Xray </em>
 

@@ -19,7 +19,8 @@ Is there a way for a deep learning computer vision model to tell the difference 
 
 ### How this repository is structured
 Here is a description of folders and files in this repository
-* [dataset_for_classification](https://github.com/sandrofab/Covid-X-ray/tree/master/dataset_for_classification) - here you will find x-ray images split in 4 self explaining subfolders.
+* [dataset_for_classification](https://github.com/sandrofab/Covid-X-ray/tree/master/dataset_for_classification) - here you will find x-ray images split in 4 self explaining subfolders. The Covid Xray images are taken from the Covid project of Dr. [Joseph Paul Cohen](https://github.com/ieee8023/covid-chestxray-dataset). Some randomly selected images have been taken only if they were covid positive and in PA (posteroanterior) view. The other images have been taken from [Kaggle Chest X-Ray Images (Pneumonia) dataset]
+(https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 * [Scripts and Notebooks](https://github.com/sandrofab/Covid-X-ray/tree/master/Scripts%20and%20Notebooks) - a folder with scripts and Colab notebooks with code used for the pre-processing tasks and model training
 * [Plots](https://github.com/sandrofab/Covid-X-ray/tree/master/plots) - Plots with losses and accuracies in different scenarios
 

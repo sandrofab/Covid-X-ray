@@ -25,3 +25,12 @@ Here is a description of folders and files in this repository
 
 
 In the file [Covid-project-report.pdf](https://github.com/sandrofab/Covid-X-ray/blob/master/Covid-project-report.pdf) you will find the report and all the steps i followed to train the model and achieve some conclusions.
+
+## Conclusions and further investigations
+* The trained model seems to be accurate on this dataset but what is
+really detecting? Remember that the Xray images come from 2
+different datasets for what concerns Covid and No‐Covid, is there
+any chance the model is detecting this difference maybe in the way
+the X‐ray images were taken?
+* The dataset is still too small for this purpose it would be useful to
+make the same training on a larger dataset
